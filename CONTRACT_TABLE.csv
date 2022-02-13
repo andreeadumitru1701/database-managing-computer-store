@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_CONTRACT","NUMBER","No","","1"
+"ID_FURNIZOR","NUMBER","No","",""
+"ID_FURNIZARE","NUMBER","No","",""
+"DATA","DATE","Yes","",""
+"PRET","NUMBER","Yes","",""
+"OBSERVATII","VARCHAR2(255)","Yes","",""

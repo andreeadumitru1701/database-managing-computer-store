@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_COMANDA","NUMBER","No","","1"
+"ID_CLIENT","NUMBER","No","",""
+"ID_ANGAJAT","NUMBER","No","",""
+"ID_FACTURA","NUMBER","No","",""
+"DATA","DATE","Yes","",""
+"NR_BUC","NUMBER","Yes","",""

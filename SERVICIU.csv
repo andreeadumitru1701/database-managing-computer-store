@@ -1,0 +1,8 @@
+"ID_SERVICIU","ID_ANGAJAT","ID_PRESTARE","DENUMIRE","PRET","OBSERVATII"
+"1","1","1","Consultanta","50",""
+"2","2","2","Service","150","Negociabil in functie de reparatie"
+"3","3","3","Instalare Windows","50",""
+"4","4","4","Asamblare","100","In functie de nevoia clientului."
+"5","5","5","Inlocuire piesa","150","Depinde de piesa"
+"6","6","6","Salvare date HDD/SSD","200","Depinde de complexitate"
+"7","7","7","Diagnoza","75",""

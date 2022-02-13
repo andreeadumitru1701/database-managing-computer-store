@@ -1,0 +1,6 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_FURNIZARE","NUMBER","No","","1"
+"ID_CONTRACT","NUMBER","No","",""
+"DATA_PLASARE","DATE","Yes","",""
+"DATA_LIVRARE","DATE","Yes","",""
+"CANTITATE","NUMBER","Yes","",""

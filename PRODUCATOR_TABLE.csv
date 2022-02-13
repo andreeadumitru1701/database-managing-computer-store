@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_PRODUCATOR","NUMBER","No","","1"
+"ID_PRODUS","NUMBER","No","",""
+"DENUMIRE","VARCHAR2(255)","Yes","",""
+"TELEFON","NUMBER","Yes","",""
+"ADRESA","VARCHAR2(255)","Yes","",""
+"EMAIL","VARCHAR2(255)","Yes","",""

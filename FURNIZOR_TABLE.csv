@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_FURNIZOR","NUMBER","No","","1"
+"ID_CONTRACT","NUMBER","No","",""
+"DENUMIRE","VARCHAR2(255)","Yes","",""
+"ADRESA","VARCHAR2(255)","Yes","",""
+"TELEFON","NUMBER","Yes","",""
+"EMAIL","VARCHAR2(255)","Yes","",""

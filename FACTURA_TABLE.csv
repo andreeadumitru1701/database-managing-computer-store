@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_FACTURA","NUMBER","No","","1"
+"ID_PRODUS","NUMBER","No","",""
+"ID_COMANDA","NUMBER","No","",""
+"DATA","DATE","Yes","",""
+"TOTAL","NUMBER","Yes","",""
+"OBSERVATII","VARCHAR2(255)","Yes","",""

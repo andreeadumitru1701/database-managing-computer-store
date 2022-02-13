@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_CLIENT","NUMBER","No","","1"
+"ID_COMANDA","NUMBER","No","",""
+"NUME","VARCHAR2(255)","Yes","",""
+"PRENUME","VARCHAR2(255)","Yes","",""
+"ADRESA","VARCHAR2(255)","Yes","",""
+"EMAIL","VARCHAR2(255)","Yes","",""

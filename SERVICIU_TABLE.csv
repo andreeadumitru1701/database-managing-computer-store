@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ID_SERVICIU","NUMBER","No","","1"
+"ID_ANGAJAT","NUMBER","No","",""
+"ID_PRESTARE","NUMBER","No","",""
+"DENUMIRE","VARCHAR2(255)","Yes","",""
+"PRET","NUMBER","Yes","",""
+"OBSERVATII","VARCHAR2(255)","Yes","",""
